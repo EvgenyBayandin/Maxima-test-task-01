@@ -155,7 +155,7 @@ body {
 }
 
 .feedback-form {
-    background-color: #ffffff;
+    background-color: white;
     padding: 20px;
     border-radius: 4px;
     margin-top: 20px;
@@ -173,7 +173,8 @@ body {
 
 .feedback-form input,
 .feedback-form textarea {
-    width: 100%;
+    display: block;
+		width: 100%;
     padding: 10px;
     border-radius: 4px;
     border: 1px solid #dddddd;
